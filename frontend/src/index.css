@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.irish-grover-regular {
+  font-family: "Irish Grover", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+input::placeholder {
+  /* Establece el tamaño del texto del placeholder */
+  font-size: 14px; /* Puedes ajustar este valor según tus preferencias */
+}
+
+body {
+  position: relative;
+  background-image: linear-gradient(
+      160deg,
+      rgba(85, 85, 116, 1) 0%,
+      rgba(0, 32, 74, 0.5) 60%,
+      rgba(111, 24, 179, 0.1) 80%,
+      rgba(17, 17, 186, 0.2) 90%
+    ),
+    url("/imgfondo.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /* Opcional: establecer otros estilos para el cuerpo */
+  margin: 0;
+  padding: 0;
+  font-family: montserrat, sans serif; /* Ejemplo de definición de la fuente */
+}
+
+.avatar-option.selected {
+  filter: drop-shadow(0 0 5px rgba(242, 240, 246, 0.9));
+  transition: filter 0.3s ease-in-out;
+}
