@@ -1,21 +1,24 @@
 <p align="center"><img src="frontend/assets/logo.png" alt="Logo"></p>
-<p align="center">https://trivia-whizz.netlify.app/</p>
-
 <br><br><br><br>
 
-# ¿Qué es?   
+# ¿Qué es?
 
 <p><strong>Trivia Whizz</strong> es una web app de trivia donde los usuarios pueden desafiar sus conocimientos sobre una variedad de temas.</p>
 
-<br>
+<br><br>
 
-![1](frontend/assets/Mockup1.png)
-![1](frontend/assets/Mockup2.png)
-![1](frontend/assets/Mockup3.png)
-![1](frontend/assets/Mockup4.png)
+Escaneando este QR podés probar la aplicación desde el celular!
+
+<img src="https://github.com/No-Country/c17-72-m-python/assets/130688160/763b78ba-6d63-4795-b9ce-244664d6188b" alt="image" width="200" height="200">
+
+<br><br>
+
+Sino con este link podés ingresar desde acá:
+<br><br>
+[Trivia Whizz](https://trivia-whizz.netlify.app)
 
 
-
+<br><br>
 # Definición del proyecto:
 Proyecto realizado en el contexto de Simulación Certificada "No Country", para el que se trabajó durante 4 semanas. Desde la organización del grupo, hasta la presentación de la Demo, se fue trabajando en etapas o Sprints, reportando los avances al Team Leader. El criterio de selección del proyecto a trabajar fue en relación a la cantidad de participantes, los perfiles profesionales y el tiempo de trabajo para poder cumplir con el dead-line.
 
@@ -157,4 +160,6 @@ pp.config['SQLALCHEMY_DATABASE_URI']='mysql+pymysql://usuario:clave@localhost/tr
 ```bash
 python app.py
 ```
+
+``
 
