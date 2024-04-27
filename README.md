@@ -1,7 +1,9 @@
 <p align="center"><img src="frontend/assets/logo.png" alt="Logo"></p>
+<p align="center">https://trivia-whizz.netlify.app/</p>
+
 <br><br><br><br>
 
-# ¿Qué es?  # https://trivia-whizz.netlify.app/
+# ¿Qué es?   
 
 <p><strong>Trivia Whizz</strong> es una web app de trivia donde los usuarios pueden desafiar sus conocimientos sobre una variedad de temas.</p>
 
@@ -155,3 +157,4 @@ pp.config['SQLALCHEMY_DATABASE_URI']='mysql+pymysql://usuario:clave@localhost/tr
 ```bash
 python app.py
 ```
+
