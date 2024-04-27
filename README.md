@@ -1,7 +1,7 @@
 <p align="center"><img src="frontend/assets/logo.png" alt="Logo"></p>
 <br><br><br><br>
 
-# ¿Qué es?
+# ¿Qué es?  # https://trivia-whizz.netlify.app/
 
 <p><strong>Trivia Whizz</strong> es una web app de trivia donde los usuarios pueden desafiar sus conocimientos sobre una variedad de temas.</p>
 
